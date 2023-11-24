@@ -2,7 +2,7 @@
 
 ## Description
 
-Welcome to Celo FrontEnd 101, a web application enable user to view, buy, add, update and delete their own product in the marketplace. Users can view items they've bought and how many times they've bought that item. It uses the Celo Eur stable currency.
+Welcome to Celo FrontEnd 101, this is a marketplace dapp that enables user to view, buy, add, update and delete their own product in the marketplace. It has a cool way of showing users their transaction history by allowing them view items they've bought and how many times they've bought that item. It uses the Celo Eur stable currency for payment confirmation.
 
 ## Feature
 
