@@ -1,5 +1,11 @@
 ﻿# CELO-FE
 
+
+| AUTHOR  | Tamara Ebi Pere Victor |
+| ------------- |:-------------:|
+| EMAIL     | tamaraebivictor@gmail.com   |
+|
+
 ## Table of Contents
 
 - [Description](#description)
