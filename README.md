@@ -4,7 +4,7 @@
 | AUTHOR  | Tamara Ebi Pere Victor |
 | ------------- |:-------------:|
 | EMAIL     | tamaraebivictor@gmail.com   |
-|
+
 
 ## Table of Contents
 
@@ -21,10 +21,10 @@ Welcome to Celo FrontEnd 101, a marketplace dapp enabling users to view, buy, ad
 
 ## Features
 
-1. [View list of products in the marketplace](#view-list-of-products)
-2. [Add new products](#add-new-products)
-3. [Edit or delete your own product](#edit-or-delete-products)
-4. [View items you've bought and purchase history](#view-purchase-history)
+1. View list of products in the marketplace
+2. dd new products
+3. Edit or delete your own product
+4. View items you've bought and purchase history
 
 ## Tech Stack
 
