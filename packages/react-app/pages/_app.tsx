@@ -56,6 +56,7 @@ const connectors = connectorsForWallets([
       Valora({ chains }),
       CeloWallet({ chains }),
       CeloDance({ chains }),
+      metaMaskWallet({ chains }),
       omniWallet({ chains }),
       walletConnectWallet({ chains }),
     ],
