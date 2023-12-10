@@ -21,12 +21,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/celo-org/celo-composer.git"
+        "url": "git+https://github.com/Tamara-Ebi-Pere-Victor/celo-fe.git"
     },
     "bugs": {
-        "url": "https://github.com/celo-org/celo-composer/issues"
+        "url": https://github.com/Tamara-Ebi-Pere-Victor/celo-fe/issues"
     },
-    "homepage": "https://github.com/celo-org/celo-composer/blob/main/README.md",
+    "homepage": "https://github.com/Tamara-Ebi-Pere-Victor/celo-fe/blob/main/README.md",
     "workspaces": [
         "packages/*"
     ],
