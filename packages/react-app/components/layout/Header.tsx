@@ -36,16 +36,16 @@ export default function Header() {
                   />
                 </div>
                 <div className="hidden sm:ml-6 sm:flex sm:space-x-8">
-                  <a
+                  <Link
                     href="/"
                     className="inline-flex items-center border-b-2 border-black px-1 pt-1 text-sm font-medium text-gray-900 ">
                     <span className="px-6 py-2.5 hover:bg-gray-700 hover:shadow-lg focus:bg-gray-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-gray-800 active:shadow-lg transition duration-150 ease-in-out">Marketplace</span>
-                  </a>
-                  <a
+                  </Link>
+                  <Link
                     href="/yourproducts"
                     className="inline-flex items-center border-b-2 border-black px-1 pt-1 text-sm font-medium text-gray-900 ">
                     <span className="px-6 py-2.5 hover:bg-gray-700 hover:shadow-lg focus:bg-gray-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-gray-800 active:shadow-lg transition duration-150 ease-in-out">Your Products</span>
-                  </a>
+                  </Link>
                 </div>
               </div>
 
