@@ -24,7 +24,7 @@
         "url": "git+https://github.com/Tamara-Ebi-Pere-Victor/celo-fe.git"
     },
     "bugs": {
-        "url": https://github.com/Tamara-Ebi-Pere-Victor/celo-fe/issues"
+        "url": "https://github.com/Tamara-Ebi-Pere-Victor/celo-fe/issues"
     },
     "homepage": "https://github.com/Tamara-Ebi-Pere-Victor/celo-fe/blob/main/README.md",
     "workspaces": [
